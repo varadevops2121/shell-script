@@ -8,4 +8,4 @@ echo "Please Enter Password::"
 
 read PASSWORD
 
-echo "Username is: $USERNAME, Password is: $password"
+echo "Username is: $USERNAME, Password is: $PASSWORD"
